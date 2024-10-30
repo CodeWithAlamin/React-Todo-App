@@ -9,7 +9,7 @@ function Attribution() {
             Coded by
             <a
               className={styles.attbLink}
-              href="https://twitter.com/CodePapa360"
+              href="https://twitter.com/CodeWithAlamin"
               target="_blank"
               rel="noreferrer"
             >
@@ -20,7 +20,7 @@ function Attribution() {
             Challenge by
             <a
               className={`${styles.attbLink} ${styles.attbFem}`}
-              href="https://www.frontendmentor.io/profile/CodePapa360"
+              href="https://www.frontendmentor.io/profile/CodeWithAlamin"
               target="_blank"
               rel="noreferrer"
             >

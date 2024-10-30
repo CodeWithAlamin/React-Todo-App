@@ -9,7 +9,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 
 <h2>
 
-[🚀Live Site](https://todo-app-codepapa360.vercel.app)
+[🚀Live Site](https://todo-app-alamin.vercel.app)
 ||
 [💡Frontend Mentor](https://www.frontendmentor.io/solutions/todo-app-with-react-and-redux-toolkit-S6OHXSKJQi)
 
@@ -32,7 +32,7 @@ Challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges)
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://todo-app-codepapa360.vercel.app">
+<a align="center" href="https://todo-app-alamin.vercel.app">
 
 ![Screenshot](./public/images/thumbnail-preview.png)
 
@@ -87,7 +87,7 @@ Building this Todo app marked a significant step in my React journey, and I'm ex
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/React-Todo-App.git
+git clone https://github.com/CodeWithAlamin/React-Todo-App.git
 ```
 
 - Install dependencies:
@@ -112,10 +112,10 @@ npm run dev
 
 <b>👤 Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
